@@ -18,11 +18,7 @@ Database: MongoDB
 2. Build and run the application using maven 
     mvn clean install
 
-3. Run the command "mvn spring-boot:run"
-
-Alternatively, you can run the app without packaging it using -
-
-Run the app using "mvn spring-boot:run
+3. Run the app using command "mvn spring-boot:run"
 
 The server will start at "http://localhost:8080"
 
